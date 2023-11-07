@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pic"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Coolers clone"
+	}
+}
